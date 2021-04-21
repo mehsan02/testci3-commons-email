@@ -17,3 +17,4 @@ public class EmailConcrete extends Email{
 	public String getContentType() {
 		return this.contentType;
 	}
+}
